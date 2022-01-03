@@ -16,8 +16,8 @@ Group project to create a game using Phaser3.
 ### :dart: Goals:
 
 Even if it was a group project, I went with a personal recipe bank and set the following goals:
-- Learn more JavaScript
 
+- Learn more JavaScript
 - Learn teamwork
 - Using github in group
 
@@ -31,7 +31,6 @@ Even if it was a group project, I went with a personal recipe bank and set the f
 - Phaser3
 - Node.js
 - Functions:
-    
 
 - Style/Animation:
     
