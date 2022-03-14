@@ -38,8 +38,9 @@ Even if it was a group project, I went with a personal recipe bank and set the f
 
 
 - Workflow:
-  Github
+  Github.
   Planning the project in a Kanban style Trello board.
+  Designing in Figma.
   
 
 ### :computer: Tech used in this specific repository:
