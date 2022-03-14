@@ -20,6 +20,7 @@ Even if it was a group project, I went with a personal recipe bank and set the f
 - Learn more JavaScript
 - Learn teamwork
 - Using github in group
+- Learn Phaser.3
 
 ### :grimacing: Description:
 
@@ -37,7 +38,7 @@ Even if it was a group project, I went with a personal recipe bank and set the f
 
 
 - Workflow:
-  Github.
+  Github
   Planning the project in a Kanban style Trello board.
   
 
